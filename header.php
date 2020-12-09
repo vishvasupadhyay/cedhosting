@@ -83,7 +83,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<i class="icon-bar"></i>
 							</button>				  
 							<div class="navbar-brand">
-								<h1><a href="index.php"><img src="images/logo2.png" class="img-responsive" alt="" style="margin-top: -70px; margin-left: 0px;"></a></h1>
+								<h1><a href="index.php"><img src="images/cedhosting1.png" class="img-responsive" alt="" style="margin-top: -70px; margin-left: 0px;"></a></h1>
 							</div>
 						</div>
 
